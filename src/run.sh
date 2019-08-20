@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 
-chmod +x main.py
-python3 main.py
+venv/bin/python3 main.py
