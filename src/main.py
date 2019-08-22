@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
