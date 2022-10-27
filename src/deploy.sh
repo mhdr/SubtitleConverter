@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-pyinstaller --onefile --windowed main.py
+python_path=venv/bin/python3
+
+ venv/bin/pyinstaller --onefile --windowed main.py
